@@ -18,11 +18,8 @@ def linecount():
           outFile.write(githubFile[CONTENT_INDEX])
 
 
-
 def main():
 
-  linecount()
-
-
+    linecount()
 
 main()
